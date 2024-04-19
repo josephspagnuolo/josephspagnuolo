@@ -25,7 +25,6 @@
   <br />
   <br />
   <p>Some things I'm working with:</p>
-  <br />
      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -46,6 +45,7 @@
 <br />
 <br />
 <br />
+<br />
 <div>
 <p align="center">
   I've also been learning about Augmented Reality and mobile app development
@@ -53,6 +53,7 @@
   <br />
   <br />
   <br />
+   <br />
   Find me on LinkedIn <a href="https://www.linkedin.com/in/josephspagnuolo1/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-josephspagnuolo1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephspagnuolo1/" /></a> or feel free to contact me at <a href="mailto:josephspagnuolo1@gmail.com" target="_blank">josephspagnuolo1@gmail.com</a>
 </p>
 </div>
