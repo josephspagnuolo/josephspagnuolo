@@ -2,7 +2,7 @@
   Hi 👋 My name is Joseph Spagnuolo
 </h1>
 <p align="center">
-  <b>I'm a fourth-year Software Engineering student at York University</b>
+  <b>I'm a Software Engineering BEng graduate from Toronto</b>
 </p>
 <br />
 <br />
